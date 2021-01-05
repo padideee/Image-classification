@@ -1,5 +1,8 @@
 # image-classification
-Kaggle competition accuracy 0.91, rank #1, team EP
+- Kaggle competition accuracy 0.91
+- Rank #1
+- Team EP
+
 
 # How to run vgg_with_changing_top_layers.py
 
